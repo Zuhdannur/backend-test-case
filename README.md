@@ -45,6 +45,13 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## Running the seeder
+
+```bash
+$ npm install -g ts-node
+$ yarn seeder:run
+```
+
 ## Test
 
 ```bash
